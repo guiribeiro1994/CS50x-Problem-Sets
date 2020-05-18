@@ -1,5 +1,7 @@
-// Mario pyramid blocks problem set cs50 wk1 2020
-// compile as: clang mario.c -o mario -lcs50
+// Mario pyramid blocks problem set cs50 wk1 2020.
+// This program asks users for a positive integer 'n' between 1-8 (inclusive),
+// and returns a printed block of pyramids of 'n' height.
+// Compile as: clang mario.c -o mario -lcs50
 
 // Header files go here.
 #include <stdio.h>
