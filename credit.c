@@ -1,7 +1,7 @@
-// Card problem set cs50 wk1 2020.
+// Credit problem set cs50 wk1 2020.
 // This program uses Luhn’s Algorithm and other tests to determine if a credit
 // card number is valid and who issued it.
-// Compile as: clang cash.c -o cash -lcs50
+// Compile as: clang credit.c -o credit -lcs50
 
 // Header files go here.
 #include <cs50.h>
